@@ -4,7 +4,7 @@ GSOC 2007 was run by the following administrators, mentors and students:
 
 * carl.shapiro
 * gsoc.tlarsen
-* heowber
+* heowbert
 * defmacro
 * bgruber
 * photinodecay
